@@ -1,0 +1,9 @@
+Package: mfa
+Type: Package
+Title: Multiple Factor Analysis
+Version: 0.1.0
+Author: Anna Liu, Carson McNeil,
+Maintainer: Anna Liu <liuanna626@gmail.com>
+Description: A package for multiple factor analysis
+License: What license is it under?
+LazyData: TRUE
